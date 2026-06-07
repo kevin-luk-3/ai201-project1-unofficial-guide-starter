@@ -1,0 +1,87 @@
+SOURCE_URL: https://www.imdb.com/
+SOURCE_TITLE: IMDb User Reviews
+SOURCE_TYPE: imdb_user_review
+---
+
+Domain: Unofficial audience and critic opinions on the Fast & Furious franchise.
+Organization: one source website per file; each section covers films 1–10.
+
+=== The Fast and the Furious (2001) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt0232500/reviews/
+If what you saw in the trailers excites you, you'll be entertained. All we want is racing, crashes, fights — F&F doesn't disappoint. Vin Diesel and Paul Walker have great chemistry, and Dom and Brian carry the film. The street-racing scenes still hold up as pure early-2000s action comfort food, even if the plot is basically Point Break with cars.
+
+---
+
+=== 2 Fast 2 Furious (2003) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt0322259/reviews/
+Tyrese adds energy Paul Walker couldn't carry alone, and the Miami setting is fun, but the plot is confusing and the races feel boring compared to the original. Without Vin Diesel, the emotional center of the franchise is gone — Brian and Roman's buddy dynamic can't replace Dom vs Brian. Still watchable if you turn your brain off, but most fans rank this as one of the weakest entries.
+
+---
+
+=== The Fast and the Furious: Tokyo Drift (2006) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt0463985/reviews/
+Best pure car-culture entry in the series for many enthusiasts. The drifting scenes in Tokyo are the highlight, and Han became an instant fan favorite. Lucas Black isn't Vin Diesel, but the change of scenery and focus on JDM tuning make it feel fresh. Many viewers still defend this as the last honest racing movie before the franchise went full heist/superhero.
+
+---
+
+=== Fast & Furious (2009) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt1013752/reviews/
+Dom and Brian reunite, which makes this better than the middle entries even if it abandons pure street racing for crime-thriller vibes. The tunnel chase is a standout set piece, and bringing back the original cast rebooted the series after Tokyo Drift. Some fans are bothered by continuity holes, but most agree the reunion was worth it.
+
+---
+
+=== Fast Five (2011) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt1596343/reviews/
+Single-handedly got me to give the rest of the series a shot. Abandons street racing for heist action, and Dwayne Johnson is a great addition as Hobbs. The Rio vault chase is unforgettable — ridiculous or iconic depending on your tolerance. Still the best the franchise has to offer for many fans.
+
+---
+
+=== Fast & Furious 6 (2013) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt1905041/reviews/
+The tank on the highway is peak ridiculous Fast family energy. Letty returns, which adds emotional stakes for Dom, and the crew works more like an action team than street racers. The runway finale goes on forever, but if you accept what the franchise became, there's plenty to enjoy.
+
+---
+
+=== Furious 7 (2015) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt2820852/reviews/
+Emotional tribute elevates an already solid action movie. The Abu Dhabi building jump is insane, and you feel Paul Walker's absence throughout — the ending is handled beautifully. Many viewers cried during the See You Again montage. One of the most emotional blockbusters in the series.
+
+---
+
+=== The Fate of the Furious (2017) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt4630562/reviews/
+Dom goes villain, which is divisive, but Charlize Theron as Cipher is great. The submarine chase is absurd even for this franchise — fully in superhero territory now. Hobbs and Shaw's chemistry is a highlight. Fans debate whether the series jumped the shark here or just leaned into the fun.
+
+---
+
+=== F9: The Fast Saga (2021) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt5433138/reviews/
+Lowest user score in the series for a reason. Physics are completely gone, and the space magnet scene is where many fans checked out. John Cena as Dom's brother was hit or miss. Still entertaining if you're a completionist who embraces the absurdity.
+
+---
+
+=== Fast X (2023) ===
+
+REVIEW | IMDb User
+Source: https://www.imdb.com/title/tt5433140/reviews/
+Messy but Jason Momoa is having the time of his life as Dante. Too many characters, too many cameos, and the cliffhanger ending frustrates but sets up the finale. Momoa carried the movie for many viewers. Part one of two that feels overstuffed but still delivers set-piece thrills.
+
+---

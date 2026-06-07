@@ -10,6 +10,8 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+This domain covers fan and audience opinions on the Fast & Furious franchise—how viewers rank each installment, what they praise or criticize, and how the series evolved from street racing to insane heists. That knowledge is valuable because watch-order confusion, wildly mixed reception, and long-running inside jokes make it hard to know where to start or which films are worth your time. Official channels (trailers, press, aggregate critic scores) flatten those nuances; real sentiment lives scattered across hundreds of individual Metacritic user reviews that no studio page summarizes.
+
 
 ---
 
@@ -18,18 +20,20 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
+Corpus is organized **one review platform per file**; each file has sections for 10 mainline Fast and Furious films (2001–2023). Together the sources mix **audience** (Metacritic users, IMDb, Letterboxd), **professional critics** (Roger Ebert, IGN, Empire), **aggregators** (Rotten Tomatoes, Metacritic critics, Wikipedia), and **fan-culture editorial** (ScreenRant).
+
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Metacritic — User Reviews | Scored fan reviews (0–10) across all 10 films; captures polarized audience takes, franchise ranking debates, and which entries fans love or hate | https://www.metacritic.com/ · `documents/source_01_metacritic_user.txt` |
+| 2 | IMDb — User Reviews | Long-form fan reviews per film; practical watch advice, nostalgia, and informal consensus on cast chemistry and rewatch value | https://www.imdb.com/ · `documents/source_02_imdb_user.txt` |
+| 3 | Rotten Tomatoes — Critics & Audience | Tomatometer scores and critic-aggregation context per film; shows where professional consensus diverges from fan enthusiasm | https://www.rottentomatoes.com/ · `documents/source_03_rottentomatoes.txt` |
+| 4 | Wikipedia — Critical Response | Summarized reception and box-office context from each film's Wikipedia page; useful for broad critical narrative and franchise milestones | https://en.wikipedia.org/wiki/Fast_%26_Furious · `documents/source_04_wikipedia.txt` |
+| 5 | Metacritic — Critic Reviews | Professional critic scores (0–100) per film; complements user reviews to compare critic vs. audience gaps (e.g., *Fast Five* praised by critics, divisive among fans) | https://www.metacritic.com/ · `documents/source_05_metacritic_critic.txt` |
+| 6 | ScreenRant | Editorial and fan-culture articles: franchise rankings, iconic scenes (tank chase, space magnets, Dom's son leap), Paul Walker tribute, and "jumped the shark" debates | https://screenrant.com/ · `documents/source_06_screenrant.txt` |
+| 7 | IGN | Professional entertainment reviews per film; structured critic takes on action quality, story, and how each entry fits the evolving franchise formula | https://www.ign.com/ · `documents/source_07_ign.txt` |
+| 8 | RogerEbert.com | Roger Ebert / RogerEbert.com critic reviews with star ratings across all 10 films; established critical voice on whether each installment works as filmmaking vs. spectacle | https://www.rogerebert.com/ · `documents/source_08_rogerebert.txt` |
+| 9 | Empire Online | UK film-magazine reviews per installment; international critic perspective on action craft, cast, and franchise reinvention (*Tokyo Drift* through *Fast X*) | https://www.empireonline.com/ · `documents/source_09_empire_online.txt` |
+| 10 | Letterboxd — Community Reviews | Film-diary community consensus per title; cinephile/fan sentiment, meme culture, and how engaged viewers rank entries in watch order | https://letterboxd.com/ · `documents/source_10_letterboxd.txt` |
 
 ---
 
@@ -40,11 +44,11 @@
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:**
+**Chunk size:** ~500–650 characters per chunk on average; hard cap of **1,000 characters**  when a single review must be sub-split. Target **~120–130 chunks** total across all 10 source files.
 
-**Overlap:**
+**Overlap:** **0 characters** — no overlap between chunks. I've pre-processed the documents to use delimiters as well as stripped unrelated noise to allow for better accuracy when chunking / embedding.
 
-**Reasoning:**
+**Reasoning:** The corpus is review-heavy, each file is organized into `=== Film Title ===` sections with one or more discrete `REVIEW` blocks (Metacritic user files bundle 2 reviews per film; Metacritic critic files bundle 3 critic blurbs per film; other sources have 1 review per film). Chunking on `REVIEW` boundaries keeps each unit semantically whole — one opinion with its score, source, and film title — which matters for questions like "what do fans think of *Tokyo Drift*?" vs. "how did critics rate *Fast Five*?". Analysis of the files shows median chunk size ~560 characters and only a handful of outliers above 1,500 characters (long Metacritic user rants), so fixed-size sliding windows would either mash unrelated reviews together or cut mid-sentence through scored opinions. Each chunk will prepend the film header and source metadata (URL, rating scale) for attribution. Preprocessing strips the shared file header (lines 1–7) before chunking since it repeats across every section in a file.
 
 ---
 

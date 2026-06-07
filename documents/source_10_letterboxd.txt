@@ -1,0 +1,97 @@
+SOURCE_URL: https://letterboxd.com/
+SOURCE_TITLE: Letterboxd Community Reviews
+SOURCE_TYPE: audience_review
+---
+
+Domain: Unofficial audience and critic opinions on the Fast & Furious franchise.
+Organization: one source website per file; each section covers films 1–10.
+
+=== The Fast and the Furious (2001) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/the-fast-and-the-furious/
+Film summary: A framed man escapes prison and takes a wealthy woman's Jaguar with her in it. After she tries to escape numerous times, they begin to develop feelings for each other, and enter a road race that ends in Mexico.
+Community take: The original that started it all — thin plot but great chemistry between Dom and Brian. A guilty pleasure street-racing classic that launched the whole franchise.
+
+---
+
+=== 2 Fast 2 Furious (2003) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/2-fast-2-furious/
+Film summary: It's a major double-cross when former police officer Brian O'Conner teams up with his ex-con buddy Roman Pearce to transport a shipment of "dirty" money for shady Miami-based import-export dealer Carter Verone. But the guys are actually working with undercover agent Monica Fuentes to bring Verone down.
+Community take: Feels like a two-hour pilot for a USA Original Series. Worse than the original in almost every way — the weak middle child of the franchise.
+
+---
+
+=== The Fast and the Furious: Tokyo Drift (2006) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/the-fast-and-the-furious-tokyo-drift/
+Film summary: In order to avoid a jail sentence, Sean Boswell heads to Tokyo to live with his military father. In a low-rent section of the city, Sean gets caught up in the underground world of drift racing
+Community take: The last true FF movie about street racing. If you want cars and drifting instead of superhero physics, this is the one.
+
+---
+
+=== Fast & Furious (2009) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/fast-furious/
+Film summary: When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what's possible behind the wheel.
+Community take: Probably better than prior ones except the first. Loved seeing the original cast return even with continuity issues.
+
+---
+
+=== Fast Five (2011) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/fast-five/
+Film summary: Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.
+Community take: Many fans call it the best in the series. Pivoted from street racing to Ocean's Eleven-style heist. Vault chase is unforgettable.
+
+---
+
+=== Fast & Furious 6 (2013) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/fast-furious-6/
+Film summary: Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries; Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.
+Community take: Most over-the-top entry yet at the time. The tank chase is physics-defying but crowd-pleasing.
+
+---
+
+=== Furious 7 (2015) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/furious-7/
+Film summary: Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.
+Community take: Emotional tribute elevates an already solid action movie. The ending had viewers in tears.
+
+---
+
+=== The Fate of the Furious (2017) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/the-fate-of-the-furious/
+Film summary: When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.
+Community take: Franchise fully abandoned racing. Cipher is a standout villain; submarine chase is peak nonsense.
+
+---
+
+=== F9: The Fast Saga (2021) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/f9-the-fast-saga/
+Film summary: 
+Community take: F9 works better as fantasy not racing. Some fans loved it; many say the series should have stopped earlier.
+
+---
+
+=== Fast X (2023) ===
+
+REVIEW | Letterboxd Community
+Source: https://letterboxd.com/film/fast-x/
+Film summary: Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.
+Community take: Messy but Jason Momoa is having the time of his life. Cliffhanger ending frustrates but sets up the finale.
+
+---

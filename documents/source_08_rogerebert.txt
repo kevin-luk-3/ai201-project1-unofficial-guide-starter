@@ -1,0 +1,107 @@
+SOURCE_URL: https://www.rogerebert.com/
+SOURCE_TITLE: RogerEbert.com Reviews
+SOURCE_TYPE: critic_review
+---
+
+Domain: Unofficial audience and critic opinions on the Fast & Furious franchise.
+Organization: one source website per file; each section covers films 1–10.
+
+=== The Fast and the Furious (2001) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/the-fast-and-the-furious-2001
+Rating: 3/4 stars (Ebert scale, 4 = best)
+It doesn't have a brain in its head, but it has some great chase scenes. The movie remembers summer movies from drive-in double features — slicker than Grand Theft Auto but the same pirate spirit. The races involve cars four abreast at speedway speeds down city streets.
+Ebert compared it favorably to the spirit of old drive-in double features — not art, but expertly assembled thrill delivery. He noted the undercover-cop setup was familiar from Point Break but argued the racing sequences and cast charm justified the formula. The review captures why critics were split: thin story, strong sensation.
+
+---
+
+=== 2 Fast 2 Furious (2003) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/2-fast-2-furious-2003
+Rating: 1.5/4 stars (Ebert scale, 4 = best)
+The car chases here are boring compared to the first film. Director John Singleton drains energy from every race. Paul Walker can't carry the film without Vin Diesel — Tyrese helps but doesn't save it.
+Ebert's half-star rating reflected boredom with repetitive chases and a sense that removing Diesel removed the franchise's gravity. He acknowledged Singleton's technical competence but found little reason for the film to exist beyond brand extension. The review remains a common reference point for why this sequel underperformed with critics.
+
+---
+
+=== The Fast and the Furious: Tokyo Drift (2006) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/the-fast-and-the-furious-tokyo-drift-2006
+Rating: 2/4 stars (Ebert scale, 4 = best)
+The racing scenes are better and the change of scenery to Tokyo helps, but the human story is still thin. Not much of a movie, but a hell of a ride for car enthusiasts. You either care about drift racing or you don't.
+Ebert gave credit to the Tokyo scenery and improved racing footage while insisting the human element was still underwritten. His 'hell of a ride' line became one of the most quoted critic summaries of the film — acknowledging spectacle over substance. Car enthusiasts and critics still cite this tension when ranking the series.
+
+---
+
+=== Fast & Furious (2009) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/fast-and-furious-2009
+Rating: 2.5/4 stars (Ebert scale, 4 = best)
+The series returns to its original stars and adds a tunnel chase that is sensational, absurd, and very entertaining. Fast & Furious is smart about how far to stretch logic without sacrificing the visceral thrill.
+Ebert saw the reunion as a smart commercial reset and singled out the tunnel sequence as the kind of set piece the series does best. He noted the film was smarter about its own absurdity than earlier entries. The 2.5-star score places it squarely in 'guilty pleasure that knows what it is' territory.
+
+---
+
+=== Fast Five (2011) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/fast-five-2011
+Rating: 3/4 stars (Ebert scale, 4 = best)
+Sheer preposterous impossible action, muscular macho guys, platoons of bad guys eliminated by the dozen. A skillfully assembled 130 minutes — actors doing absurd things with straight faces. What I missed were laughs.
+Ebert praised the muscular action choreography while wishing for more humor in the self-serious heist plot. He recognized Fast Five as the moment the franchise fully embraced being a live-action cartoon. The review captures mainstream critical ambivalence: impressive craft, zero pretension to realism.
+
+---
+
+=== Fast & Furious 6 (2013) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/fast-and-furious-6-2013
+Rating: 2.5/4 stars (Ebert scale, 4 = best)
+The action is first-rate from start to finish. The story is a screenplay appliance that supplies an excuse for the action, but the tank chase and runway finale deliver for fans.
+Ebert treated the film as professional-grade B-movie entertainment — ridiculous but executed with confidence. He noted the runway finale's length as both a flaw and a feature for fans who want maximum spectacle. The review fits the pattern of later entries: critics grade on fun-per-minute, not plot coherence.
+
+---
+
+=== Furious 7 (2015) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/furious-7-2015
+Rating: 3/4 stars (Ebert scale, 4 = best)
+The film is so poignantly dedicated to Paul Walker that it makes the usual mayhem feel oddly touching. Just might be the best one yet in pure thrills, with a farewell handled with exceptional care.
+Ebert's site praised how the film handled Paul Walker's absence with dignity amid the usual mayhem. The review acknowledged Wan's horror background in the pacing of set pieces and the emotional coda for Brian. Critics widely agreed this was among the most satisfying late-franchise entries.
+
+---
+
+=== The Fate of the Furious (2017) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/the-fate-of-the-furious-2017
+Rating: 2.5/4 stars (Ebert scale, 4 = best)
+The plot is ridiculous but the action is undeniably entertaining. Charlize Theron makes a delicious villain. Diesel and Johnson are at their testosterone-charged best.
+Ebert.com noted the franchise's shift toward Bond-scale villainy and the word 'family' being repeated ad nauseam. The review found Statham and Johnson's bickering the highlight while treating the submarine sequence as peak self-parody. Mixed scores reflected enjoyment of cast chemistry versus exhaustion with escalating nonsense.
+
+---
+
+=== F9: The Fast Saga (2021) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/f9-2021
+Rating: 2/4 stars (Ebert scale, 4 = best)
+This is a movie where cars fly into space and nobody in the film finds that odd. You either lean in or check out. Hard to argue with the entertainment when the set pieces land.
+RogerEbert.com called out the space magnet sequence as the line where the series either jumped the shark or fully embraced its identity. The review noted Lin's technical skill and the cast's commitment to straight-faced absurdity. Critics were divided between applauding audacity and asking whether any stakes remained.
+
+---
+
+=== Fast X (2023) ===
+
+REVIEW | RogerEbert.com
+Source: https://www.rogerebert.com/reviews/fast-x-2023
+Rating: 2.5/4 stars (Ebert scale, 4 = best)
+Jason Momoa is having so much fun as the villain that he almost makes the chaos worth sitting through. Overstuffed Part One that sets up bigger chaos — are there too many characters? Yes. Will you cheer? Probably.
+Ebert.com highlighted Momoa's villain as the main reason to watch and criticized the overstuffed ensemble and cliffhanger structure. The review placed Fast X in the tradition of late-franchise entries that prioritize setup and spectacle over closure. Critics agreed the action delivers even when the story feels like a TV season finale.
+
+---
