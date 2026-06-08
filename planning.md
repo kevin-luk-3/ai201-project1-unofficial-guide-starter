@@ -66,10 +66,13 @@ Corpus is organized **one source type per file**; each file has `=== MOVIE:` blo
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
-
+all-MiniLM-L6-v2 (free)
 **Top-k:**
-
+5 (to ensure at least some context)
 **Production tradeoff reflection:**
+I'd choose an embedding model that allows for longer conext embedding
+Don't think multilingual support would be particularly useful
+I'd ingest more sources as more sources might corroborate with more accuracy but that introduces more latency and noise most likely. 
 
 ---
 
