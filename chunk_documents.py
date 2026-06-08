@@ -238,8 +238,7 @@ def print_sample(chunks: list[Chunk], n: int = 5) -> None:
     for chunk in chunks[:n]:
         print(f"[{chunk.source_file}] {chunk.movie} / {chunk.section} ({chunk.sub_chunk}/{chunk.sub_chunk_total})")
         print(f"  chars: {chunk.char_count}")
-        preview = chunk.text[:200].replace("\n", " ")
-        print(f"  preview: {preview}...")
+        print(chunk.text)
         print()
 
 
@@ -267,4 +266,4 @@ def print_stats(chunks: list[Chunk]) -> None:
 if __name__ == "__main__":
     chunks = chunk_all_documents()
     print_stats(chunks)
-    print_sample(chunks)
+    print_sample(chunks, n=100)
