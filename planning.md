@@ -44,11 +44,16 @@ Corpus is organized **one source type per file**; each file has `=== MOVIE:` blo
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** One chunk per `##` section, prefixed with its `=== MOVIE:` header (`YEAR`, `SOURCE`, `SOURCE_URL`). Average **~215 characters** (~55 tokens); largest sections **~375 characters** — well under the **~800-token** sub-split threshold, so paragraph splitting is rarely needed. Target **~330 chunks** total across all 10 files.
+**Two-stage chunking:**
 
-**Overlap:** **0 characters** — no overlap. Sections are self-contained (e.g., `## Plot`, `## Fan Opinions`, `## Revenue`).
+1. **Primary split (delimiter-based):** One chunk per `##` section, prefixed with its `=== MOVIE:` header (`YEAR`, `SOURCE`, `SOURCE_URL`). This yields **~322 sections** across all 10 files.
+2. **Sub-split (size-based, only when needed):** If a section exceeds **500 characters** (~125 tokens), split it on paragraph boundaries (`\n\n`) into smaller pieces. Group paragraphs until the next one would push the chunk over 500 chars, then start a new sub-chunk. Only Wikipedia `## Plot` sections need this today (10 sections, **~2,700–4,300 characters** each).
 
-**Reasoning:** The corpus mixes short factual sections (box office figures) and opinion summaries (Letterboxd, Reddit). Chunking on `=== MOVIE:` then `##` keeps each unit topically coherent — a question about Hobbs retrieves `## Casting Notes` or `## Franchise Analysis`, not a unrelated film's plot. Fixed character windows would split mid-fact (e.g., separating budget from worldwide gross). Preprocessing strips the file-level `CORPUS:` header and attaches metadata (`movie`, `year`, `source`, `source_url`, `section`) to every chunk for citations.
+**Final chunk size:** Most chunks stay small (**~50–375 characters** for Cast, box office, Reddit comments, etc.). Sub-split plot chunks target **~400–500 characters** (~100–125 tokens), safely under `all-MiniLM-L6-v2`'s **256-token** limit. Target **~380 chunks** total after sub-split.
+
+**Overlap:** **0 characters** between different `##` sections. **1 paragraph overlap** between sub-chunks *within* the same section — the last paragraph of sub-chunk 1 repeats as the first paragraph of sub-chunk 2, so plot beats at a boundary aren't lost.
+
+**Reasoning:** Delimiter chunking keeps each unit topically coherent — a Hobbs question retrieves `## Casting Notes`, not an unrelated film's plot. Fixed character windows would split mid-fact (e.g., separating budget from worldwide gross). Full Wikipedia plots made primary `## Plot` sections too large for MiniLM to embed whole; sub-splitting by paragraph fixes that without changing the file format. Preprocessing strips the file-level `CORPUS:` header and attaches metadata (`movie`, `year`, `source`, `source_url`, `section`, `sub_chunk`) to every chunk for citations.
 
 ---
 
@@ -171,12 +176,12 @@ User question
 
 **Milestone 3 — Ingestion and chunking:**
 
-I'll use Cursor and give it my Documents, Chunking Strategy, and Architecture build-time sections. I expect a Python script that loads `documents/*.txt`, strips the `CORPUS:` header, and splits on `=== MOVIE:` and `##` with metadata on each chunk. I'll verify by printing 5 chunks and checking they are self-contained, correctly labeled, and total around 330.
+I'll use Claude and give it my Documents, Chunking Strategy, and Architecture build-time sections. I expect a Python script that loads `documents/*.txt`, strips the `CORPUS:` header, and splits on `=== MOVIE:` and `##` with metadata on each chunk. I'll verify by printing 5 chunks and checking they are self-contained, correctly labeled, that long `## Plot` sections are sub-split, and total around 380.
 
 **Milestone 4 — Embedding and retrieval:**
 
-I'll use Cursor and give it my Retrieval Approach, Architecture query path, and a sample chunk. I expect code that embeds chunks with `all-MiniLM-L6-v2`, stores them in ChromaDB, and retrieves top-k results for a query. I'll verify by running 3 eval questions and confirming returned chunks are on-topic with distance scores below 0.5.
+I'll use Claude and give it my Retrieval Approach, Architecture query path, and a sample chunk. I expect code that embeds chunks with `all-MiniLM-L6-v2`, stores them in ChromaDB, and retrieves top-k results for a query. I'll verify by running 3 eval questions and confirming returned chunks are on-topic with distance scores below 0.5.
 
 **Milestone 5 — Generation and interface:**
 
-I'll use Cursor and give it my Architecture, Evaluation Plan, and grounding requirements from the assignment. I expect a Groq-backed `ask()` function with a strict context-only prompt plus a Gradio UI that shows answer and sources. I'll verify with 2 grounded answers that cite filenames, plus one out-of-scope question that refuses to answer.
+I'll use Claude and give it my Architecture, Evaluation Plan, and grounding requirements from the assignment. I expect a Groq-backed `ask()` function with a strict context-only prompt plus a Gradio UI that shows answer and sources. I'll verify with 2 grounded answers that cite filenames, plus one out-of-scope question that refuses to answer.
