@@ -91,10 +91,9 @@ Corpus is organized **one source type per file**; each file has `=== MOVIE:` blo
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1. **Duplicate content across sources** — plot on Wikipedia and franchise analysis on Screen Rant may retrieve together and crowd out niche facts (timeline, box office). Mitigation: metadata filtering by section type for factual queries.
+1. **Duplicate content across sources** — plot on Wikipedia and franchise analysis on Screen Rant may retrieve together and crowd out niche facts (timeline, box office). 
 
-2. **Comparison queries** — "critics vs fans on *Fast Five*" may retrieve chunks from only one perspective if top-k is too low. Mitigation: raise k or retrieve per-source then merge.
-
+2. **The nature of user contrbutions on platforms like Reddit could introduce off-topic retrieval or inaccurate information** — 
 ---
 
 ## Architecture
@@ -104,6 +103,57 @@ Corpus is organized **one source type per file**; each file has `=== MOVIE:` blo
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+```
+BUILD-TIME 
+===================
+
+documents/*.txt
+      |
+      v
++------------------+     +------------------+     +------------------+
+| 1. Ingestion     | --> | 2. Chunking      | --> | 3. Embedding     |
+| Python (pathlib) |     | Python split     |     | all-MiniLM-L6-v2 |
+| load + clean     |     | === MOVIE: / ##  |     | text -> vectors  |
++------------------+     +------------------+     +------------------+
+                                                        |
+                                                        v
+                                                 +------------------+
+                                                 | 4. Vector Store  |
+                                                 | ChromaDB         |
+                                                 | save vectors +   |
+                                                 | metadata         |
+                                                 +------------------+
+
+
+QUERY-TIME 
+=========================
+
+User question
+      |
+      v
++------------------+     +------------------+     +------------------+
+| 5. Retrieval     | --> | 6. Generation    | --> | Answer + sources |
+| MiniLM embed Q   |     | Groq API         |     | (grounded, cited)|
+| ChromaDB top-k   |     | llama-3.3-70b    |     |                  |
++------------------+     +------------------+     +------------------+
+      ^
+      |
+ ChromaDB (search)
+```
+
+**Build-time (once):** load 10 corpus files → chunk `##` sections with metadata → embed → store in ChromaDB.
+
+**Query-time (per question):** embed question → retrieve top-k chunks → Groq generates grounded answer with source filenames.
+
+| Stage | Tool |
+|-------|------|
+| Ingestion | Python (`pathlib`) |
+| Chunking | Python (delimiter split) |
+| Embedding | `sentence-transformers` / `all-MiniLM-L6-v2` |
+| Vector store | ChromaDB |
+| Retrieval | MiniLM + ChromaDB |
+| Generation | Groq API |
 
 ---
 
@@ -121,6 +171,12 @@ Corpus is organized **one source type per file**; each file has `=== MOVIE:` blo
 
 **Milestone 3 — Ingestion and chunking:**
 
+I'll use Cursor and give it my Documents, Chunking Strategy, and Architecture build-time sections. I expect a Python script that loads `documents/*.txt`, strips the `CORPUS:` header, and splits on `=== MOVIE:` and `##` with metadata on each chunk. I'll verify by printing 5 chunks and checking they are self-contained, correctly labeled, and total around 330.
+
 **Milestone 4 — Embedding and retrieval:**
 
+I'll use Cursor and give it my Retrieval Approach, Architecture query path, and a sample chunk. I expect code that embeds chunks with `all-MiniLM-L6-v2`, stores them in ChromaDB, and retrieves top-k results for a query. I'll verify by running 3 eval questions and confirming returned chunks are on-topic with distance scores below 0.5.
+
 **Milestone 5 — Generation and interface:**
+
+I'll use Cursor and give it my Architecture, Evaluation Plan, and grounding requirements from the assignment. I expect a Groq-backed `ask()` function with a strict context-only prompt plus a Gradio UI that shows answer and sources. I'll verify with 2 grounded answers that cite filenames, plus one out-of-scope question that refuses to answer.
