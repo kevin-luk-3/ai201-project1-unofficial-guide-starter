@@ -1,0 +1,231 @@
+CORPUS: Fast & Furious franchise knowledge
+
+DOMAIN: Plot, cast, production, reception, timeline
+
+ORGANIZATION: One Wikipedia-derived file; one block per film.
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/The_Fast_and_the_Furious
+
+## Plot
+LAPD officer Brian O'Conner goes undercover in LA street-racing culture to bust truck hijacker Dominic Toretto. Brian bonds with Dom and his crew while investigating; he ultimately lets Dom escape, choosing loyalty over the badge.
+
+## Cast
+Vin Diesel as Dominic Toretto, Paul Walker as Brian O'Conner, Michelle Rodriguez as Letty Ortiz, Jordana Brewster as Mia Toretto.
+
+## Production
+Directed by Rob Cohen. Inspired by a Vibe magazine article on illegal street racing. Shot in Los Angeles with practical car stunts.
+
+## Release
+Released June 22, 2001. Surprise summer hit that launched the franchise.
+
+## Reception
+Mixed reviews; praised for energy and car sequences, criticized for thin plot. Cult following grew on home video.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/2_Fast_2_Furious
+
+## Plot
+Brian O'Conner, now a fugitive, partners with childhood friend Roman Pearce in Miami to take down drug lord Carter Verone while working with undercover agent Monica Fuentes.
+
+## Cast
+Paul Walker, Tyrese Gibson as Roman Pearce, Eva Mendes, Ludacris as Tej Parker. Vin Diesel does not appear.
+
+## Production
+Directed by John Singleton. Franchise's only main entry without Dom Toretto.
+
+## Release
+Released June 6, 2003. Lower gross than the original.
+
+## Reception
+Generally negative reviews. Seen as a disconnected sequel lacking the Dom-Brian dynamic.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/The_Fast_and_the_Furious_Tokyo_Drift
+
+## Plot
+American teen Sean Boswell is sent to Tokyo and enters the underground drift-racing scene, clashing with yakuza-linked racer Takashi (DK) while mentored by Han Lue.
+
+## Cast
+Lucas Black as Sean Boswell, Sung Kang as Han Lue, Bow Wow, Brian Tee as DK. Vin Diesel cameo at end.
+
+## Production
+Justin Lin's franchise debut. First film set outside the US. Introduces Han, a fan-favorite character.
+
+## Release
+Released June 16, 2006. Softest box office of the series at the time.
+
+## Reception
+Mixed reviews; praised for Tokyo setting and drift scenes. Later reassessed as underrated by fans.
+
+## Timeline
+Release order: film 3. Internal chronology: set later in the franchise timeline (after F6 events in later retcons).
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/Fast_&_Furious
+
+## Plot
+Dom returns to LA to avenge Letty's death and hunt drug trafficker Arturo Braga. Brian, now FBI, must work with Dom again. The team infiltrates Braga's operation across the US-Mexico border.
+
+## Cast
+Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster reunited. Gal Gadot debuts as Gisele Yashar.
+
+## Production
+Justin Lin directs. Deliberate franchise soft reboot reuniting original cast.
+
+## Release
+Released April 3, 2009. Doubled prior entries' opening weekend.
+
+## Reception
+Modest critical reception; fans welcomed the cast reunion.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/Fast_Five
+
+## Plot
+Dom, Brian, and Mia flee to Rio de Janeiro and assemble a crew to steal $100 million from corrupt businessman Hernan Reyes while evading DSS agent Luke Hobbs.
+
+## Cast
+Vin Diesel, Paul Walker, Dwayne Johnson debuts as Luke Hobbs, Jordana Brewster, Ludacris, Tyrese Gibson, Sung Kang as Han, Gal Gadot.
+
+## Production
+Pivoted franchise from street racing to heist action. Vault chase filmed in Puerto Rico doubling for Rio.
+
+## Release
+Released April 29, 2011. Highest-grossing in series until Furious 7.
+
+## Reception
+Strongest critical reception of the franchise to that point. Often cited as the peak entry.
+
+## Franchise Notes
+Luke Hobbs first appears here. Crew-as-family template established.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/Fast_&_Furious_6
+
+## Plot
+Hobbs recruits Dom's team to stop mercenary Owen Shaw in exchange for clearing their records. Letty returns alive but amnesiac. Han is killed in Tokyo-set sequence.
+
+## Cast
+Full ensemble returns. Gina Carano as Riley Hicks. Luke Evans as Owen Shaw.
+
+## Production
+Tank chase on Spanish highway among largest practical stunts in series.
+
+## Release
+Released May 24, 2013.
+
+## Reception
+Positive reviews for action; Han's death became emotional flashpoint for fans.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/Furious_7
+
+## Plot
+Dom's team hunts Deckard Shaw, who seeks revenge for his brother Owen. Mr. Nobody assists in exchange for help recovering God's Eye surveillance device.
+
+## Cast
+Paul Walker final completed role. Jason Statham as Deckard Shaw. Kurt Russell as Mr. Nobody.
+
+## Production
+Paul Walker died during filming; completed using brothers Caleb and Cody Walker and CGI.
+
+## Release
+Released April 3, 2015. Franchise box-office record.
+
+## Reception
+Emotional tribute ending widely praised. Strong critical and audience scores.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/The_Fate_of_the_Furious
+
+## Plot
+Cipher coerces Dom into betraying his family by holding Elena and his son hostage. The team must stop her from stealing nuclear launch codes.
+
+## Cast
+Charlize Theron as Cipher. Helen Mirren debuts in franchise.
+
+## Production
+Submarine chase and zombie-car sequences push absurdity further.
+
+## Release
+Released April 14, 2017.
+
+## Reception
+Mixed reviews; spectacle praised, plot logic questioned.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/F9_The_Fast_Saga
+
+## Plot
+Dom faces his estranged brother Jakob Toretto while the team hunts a device connected to their father's death. Flashbacks explain family rift.
+
+## Cast
+John Cena as Jakob Toretto. Han returns alive, explaining his survival.
+
+## Production
+Magnet-plane and rocket-car sequences. Justin Lin returns to direct.
+
+## Release
+Released June 25, 2021. Delayed by COVID-19.
+
+## Reception
+Polarized reception; space scene became meme. Han return celebrated by fans.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: Wikipedia
+SOURCE_URL: https://en.wikipedia.org/wiki/Fast_X
+
+## Plot
+Dante Reyes, son of Fast Five villain Hernan Reyes, targets Dom's family for revenge across Rome, Rio, and other locations. Ends on cliffhanger.
+
+## Cast
+Jason Momoa as Dante Reyes. Brie Larson joins as Tess.
+
+## Production
+Louis Leterrier replaced Justin Lin. Part one of planned two-part finale.
+
+## Release
+Released May 19, 2023.
+
+## Reception
+Momoa's villain praised; some criticism of overcrowded cast and cliffhanger.
+
+---

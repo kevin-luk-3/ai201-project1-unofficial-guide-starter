@@ -1,0 +1,163 @@
+CORPUS: Letterboxd community sentiment
+
+SOURCE_SITE: https://letterboxd.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Guilty-pleasure classic; Dom-Brian chemistry carries thin plot.
+
+## Negative Reactions
+Dated dialogue; overrated as anything beyond action.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Miami vibe and Ludacris fun.
+
+## Negative Reactions
+Weak middle child without Dom.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Last true street-racing focus; drift culture.
+
+## Negative Reactions
+Disconnected from main cast.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Cast reunion fixes franchise direction.
+
+## Negative Reactions
+Feels like a reset more than a masterpiece.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Many call it the best; heist energy perfect.
+
+## Negative Reactions
+Vault chase too absurd for some.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Tank scene iconic.
+
+## Negative Reactions
+Plot forgettable.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Tribute ending hits hard.
+
+## Negative Reactions
+Physics fully abandoned.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Cipher great villain.
+
+## Negative Reactions
+Dom villain arc divisive.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Han return celebrated.
+
+## Negative Reactions
+Space magnets meme-tier.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: Letterboxd
+SOURCE_URL: https://letterboxd.com/
+
+## Positive Reactions
+Momoa steals movie.
+
+## Negative Reactions
+Too many characters; cliffhanger annoying.
+
+## Common Themes
+Fans debate watch order, physics realism, and whether heist era beats street-racing roots.
+
+---

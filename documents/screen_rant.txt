@@ -1,0 +1,193 @@
+CORPUS: Screen Rant franchise analysis
+
+SOURCE_SITE: https://screenrant.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Street-racing origins; undercover cop template.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Miami detour; franchise low point for many rankings.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Drift pivot; Han introduced; timeline outlier.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Soft reboot reuniting cast before heist era.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Definitive franchise reinvention into heist blockbusters; Hobbs debut.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Escalation era; tank chase; Han's death.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Paul Walker tribute defines legacy.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Submarine chase; family vs Dom twist.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Space magnets; family backstory; Han returns.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: Screen Rant
+SOURCE_URL: https://screenrant.com/
+
+## Franchise Analysis
+Reyes family revenge; Momoa villain; Part 1 cliffhanger.
+
+## Character Analysis
+Dom Toretto family theme central; ensemble grew from Fast Five onward.
+
+## Timeline Notes
+Tokyo Drift set later despite release order; watch-order guides recommend release order for first-time viewers.
+
+## Rankings
+Editorial lists frequently place Fast Five first; Tokyo Drift and Furious 7 compete for second.
+
+---

@@ -1,0 +1,163 @@
+CORPUS: Metacritic critic and user summaries
+
+SOURCE_SITE: https://www.metacritic.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: Metacritic
+SOURCE_URL: https://www.metacritic.com/
+
+## Scores
+Metacritic aggregates professional critic reviews (0-100) and user scores (0-10). Individual excerpts vary by film.
+
+## Critic Reviews
+Critics often praise Fast Five and Furious 7 as franchise high points. Tokyo Drift and 2 Fast 2 Furious receive more mixed professional scores.
+
+## User Reviews
+Users polarize on spectacle-heavy entries (F9, Fate). Fast Five and Tokyo Drift have vocal fan defenders ranking them among the best.
+
+---

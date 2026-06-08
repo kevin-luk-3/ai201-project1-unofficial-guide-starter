@@ -1,0 +1,163 @@
+CORPUS: IMDb trivia and production facts
+
+SOURCE_SITE: https://www.imdb.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt0232500/
+
+## Trivia
+Point Break-inspired undercover cop setup. Real street racers consulted on car culture.
+
+## Production Facts
+Directed by Rob Cohen. Inspired by a Vibe magazine article on illegal street racing. Shot in Los Angeles with practical car stunts.
+
+## Casting Notes
+Vin Diesel as Dominic Toretto, Paul Walker as Brian O'Conner, Michelle Rodriguez as Letty Ortiz, Jordana Brewster as Mia Toretto.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt0322259/
+
+## Trivia
+Only mainline sequel without Vin Diesel until spinoffs. Tej Parker introduced.
+
+## Production Facts
+Directed by John Singleton. Franchise's only main entry without Dom Toretto.
+
+## Casting Notes
+Paul Walker, Tyrese Gibson as Roman Pearce, Eva Mendes, Ludacris as Tej Parker. Vin Diesel does not appear.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt0463985/
+
+## Trivia
+Han Lue named after Han Solo. Sung Kang later became franchise fixture.
+
+## Production Facts
+Justin Lin's franchise debut. First film set outside the US. Introduces Han, a fan-favorite character.
+
+## Casting Notes
+Lucas Black as Sean Boswell, Sung Kang as Han Lue, Bow Wow, Brian Tee as DK. Vin Diesel cameo at end.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt1013752/
+
+## Trivia
+Gal Gadot's Gisele introduced. Letty's death sets up later resurrection arc.
+
+## Production Facts
+Justin Lin directs. Deliberate franchise soft reboot reuniting original cast.
+
+## Casting Notes
+Vin Diesel, Paul Walker, Michelle Rodriguez, Jordana Brewster reunited. Gal Gadot debuts as Gisele Yashar.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt1596343/
+
+## Trivia
+Luke Hobbs introduced; Dwayne Johnson joined after negotiating with Universal. Vault scene used real trucks.
+
+## Production Facts
+Pivoted franchise from street racing to heist action. Vault chase filmed in Puerto Rico doubling for Rio.
+
+## Casting Notes
+Vin Diesel, Paul Walker, Dwayne Johnson debuts as Luke Hobbs, Jordana Brewster, Ludacris, Tyrese Gibson, Sung Kang as Han, Gal Gadot.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt1905041/
+
+## Trivia
+Han dies in crash referencing Tokyo Drift timeline. Post-credits scene sets up Furious 7.
+
+## Production Facts
+Tank chase on Spanish highway among largest practical stunts in series.
+
+## Casting Notes
+Full ensemble returns. Gina Carano as Riley Hicks. Luke Evans as Owen Shaw.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt2820852/
+
+## Trivia
+Completed after Paul Walker death using stand-ins and CGI. Song See You Again tied to tribute.
+
+## Production Facts
+Paul Walker died during filming; completed using brothers Caleb and Cody Walker and CGI.
+
+## Casting Notes
+Paul Walker final completed role. Jason Statham as Deckard Shaw. Kurt Russell as Mr. Nobody.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt4630562/
+
+## Trivia
+Charlize Theron improvised some Cipher lines. First film where Dom actively opposes family.
+
+## Production Facts
+Submarine chase and zombie-car sequences push absurdity further.
+
+## Casting Notes
+Charlize Theron as Cipher. Helen Mirren debuts in franchise.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt5433138/
+
+## Trivia
+Han retcon survival explained via Mr. Nobody extraction. John Cena plays Dom's brother.
+
+## Production Facts
+Magnet-plane and rocket-car sequences. Justin Lin returns to direct.
+
+## Casting Notes
+John Cena as Jakob Toretto. Han returns alive, explaining his survival.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: IMDb
+SOURCE_URL: https://www.imdb.com/title/tt5433140/
+
+## Trivia
+Dante Reyes connects back to Fast Five villain Hernan Reyes. Planned two-part finale begins.
+
+## Production Facts
+Louis Leterrier replaced Justin Lin. Part one of planned two-part finale.
+
+## Casting Notes
+Jason Momoa as Dante Reyes. Brie Larson joins as Tess.
+
+---

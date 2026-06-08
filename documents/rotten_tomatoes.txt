@@ -1,0 +1,173 @@
+CORPUS: Rotten Tomatoes critic and audience summaries
+
+SOURCE_SITE: https://www.rottentomatoes.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/the_fast_and_the_furious
+
+## Critic Consensus
+Tomatometer: 55%.
+Slick street-racing thriller with charisma over coherence.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/2_fast_2_furious
+
+## Critic Consensus
+Tomatometer: 37%.
+Flashy but hollow sequel missing original's spark.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/fast_and_the_furious_tokyo_drift
+
+## Critic Consensus
+Tomatometer: 38%.
+Drift scenes entertain; story forgettable.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/fast_and_furious
+
+## Critic Consensus
+Tomatometer: 28%.
+Reunion satisfies fans more than critics.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/fast_five
+
+## Critic Consensus
+Tomatometer: 77%.
+Heist pivot reinvigorates franchise.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/fast_and_furious_6
+
+## Critic Consensus
+Tomatometer: 71%.
+Relentless action; thin plot.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/furious_7
+
+## Critic Consensus
+Tomatometer: 81%.
+Spectacle plus genuine emotion.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/the_fate_of_the_furious
+
+## Critic Consensus
+Tomatometer: 67%.
+Big stunts; ridiculous plot.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/f9
+
+## Critic Consensus
+Tomatometer: 59%.
+Audacious absurdity divides viewers.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: Rotten Tomatoes
+SOURCE_URL: https://www.rottentomatoes.com/m/fast_x
+
+## Critic Consensus
+Tomatometer: 56%.
+Momoa carries uneven entry.
+
+## Audience Reaction
+Audience scores generally run higher than critics on later entries; early films more divided.
+
+## Review Highlights
+Critics emphasize action craft and cast chemistry over plot logic in most entries.
+
+---

@@ -1,0 +1,173 @@
+CORPUS: RogerEbert.com professional reviews
+
+SOURCE_SITE: https://www.rogerebert.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/the-fast-and-the-furious
+
+## Review Summary
+Rating: 3/4 stars.
+Great chase scenes; thin plot but drive-in double-feature energy.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/2-fast-2-furious
+
+## Review Summary
+Rating: 1.5/4 stars.
+Boring chases; Paul Walker cannot carry film without Vin Diesel.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/the-fast-and-the-furious-tokyo-drift
+
+## Review Summary
+Rating: 2/4 stars.
+Better racing and Tokyo scenery; human story still thin.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/fast-and-furious
+
+## Review Summary
+Rating: 2.5/4 stars.
+Tunnel chase sensational; smarter about stretching logic.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/fast-five
+
+## Review Summary
+Rating: 3/4 stars.
+Heist reinvention works; absurd vault chase entertaining.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/fast-and-furious-6
+
+## Review Summary
+Rating: 2.5/4 stars.
+Escalating action; diminishing returns but crowd-pleasing.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/furious-7
+
+## Review Summary
+Rating: 3/4 stars.
+Emotional weight from Walker tribute elevates spectacle.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/the-fate-of-the-furious
+
+## Review Summary
+Rating: 2.5/4 stars.
+Cipher strong; Dom-as-villain twist mixed.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/f9-the-fast-saga
+
+## Review Summary
+Rating: 2/4 stars.
+Family soap opera; magnet rocket scene crosses into parody.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: RogerEbert.com
+SOURCE_URL: https://www.rogerebert.com/reviews/fast-x
+
+## Review Summary
+Rating: 2.5/4 stars.
+Momoa fun; franchise fatigue showing.
+
+## Praise
+Ebert acknowledges spectacle and craft when films know what they are.
+
+## Criticism
+Recurring critique: thin human stories and escalating absurdity.
+
+---

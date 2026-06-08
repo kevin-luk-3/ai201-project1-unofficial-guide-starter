@@ -1,0 +1,183 @@
+CORPUS: Financial analysis
+
+SOURCE_SITE: https://www.the-numbers.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $38 million.
+
+## Revenue
+Worldwide box office: $207.5 million.
+Domestic: $144.7 million. International: $62.8 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$169.5 million.
+International share: 30% of worldwide gross.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $76 million.
+
+## Revenue
+Worldwide box office: $236.4 million.
+Domestic: $127.2 million. International: $109.2 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$160.4 million.
+International share: 46% of worldwide gross.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $85 million.
+
+## Revenue
+Worldwide box office: $159.0 million.
+Domestic: $62.5 million. International: $96.5 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$74.0 million.
+International share: 61% of worldwide gross.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $85 million.
+
+## Revenue
+Worldwide box office: $360.4 million.
+Domestic: $155.1 million. International: $205.3 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$275.4 million.
+International share: 57% of worldwide gross.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $125 million.
+
+## Revenue
+Worldwide box office: $626.1 million.
+Domestic: $209.8 million. International: $416.3 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$501.1 million.
+International share: 66% of worldwide gross.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $160 million.
+
+## Revenue
+Worldwide box office: $788.7 million.
+Domestic: $238.7 million. International: $550.0 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$628.7 million.
+International share: 70% of worldwide gross.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $190 million.
+
+## Revenue
+Worldwide box office: $1515.3 million.
+Domestic: $353.0 million. International: $1162.3 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$1325.3 million.
+International share: 77% of worldwide gross.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $250 million.
+
+## Revenue
+Worldwide box office: $1236.0 million.
+Domestic: $226.0 million. International: $1010.0 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$986.0 million.
+International share: 82% of worldwide gross.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $200 million.
+
+## Revenue
+Worldwide box office: $726.2 million.
+Domestic: $173.0 million. International: $553.2 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$526.2 million.
+International share: 76% of worldwide gross.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: The Numbers
+SOURCE_URL: https://www.the-numbers.com/movie/Fast-and-Furious
+
+## Budget
+Production budget: approximately $379 million.
+
+## Revenue
+Worldwide box office: $714.6 million.
+Domestic: $146.0 million. International: $568.6 million.
+
+## Financial Analysis
+Estimated worldwide gross minus budget: ~$335.6 million.
+International share: 80% of worldwide gross.
+
+---

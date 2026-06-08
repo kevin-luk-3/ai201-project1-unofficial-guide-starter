@@ -1,0 +1,271 @@
+CORPUS: Reddit fan discussions (r/fastandfurious, r/movies)
+
+SOURCE_SITE: https://www.reddit.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+
+## Fan Opinions
+COMMENT | Score: 147 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+The first one. Just being young and seeing the cars, the action, the music was just very interesting and I had to see more!
+
+COMMENT | Score: 129 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/14tr1cd/isnt_it_crazy_how_if_brian_didnt_order_that_tuna/
+Bullshit, asshole — no one likes the tuna here.
+
+## Character Discussions
+COMMENT | Score: 111 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/14tr1cd/isnt_it_crazy_how_if_brian_didnt_order_that_tuna/
+It would have still happened. Brian's mission was to infiltrate Dom's crew. He was getting in one way or another.
+
+## Timeline Discussions
+COMMENT | Score: 18 upvotes
+THREAD: https://www.reddit.com/r/movies/comments/13h5oym/what_fast_furious_movies_can_i_skipchange_order/
+The first one has attained a kind of corny quaintness in 20 years, but does set up most of the character relationships that carry on throughout the franchise, so it would be a necessity for someone looking to get into the franchise.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+
+## Fan Opinions
+COMMENT | Score: 49 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+I also like 2 fast 2 furious, the relationship between Rome and Brian was just hilarious.
+
+COMMENT | Score: 23 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+2 fast 2 furious, it's the most fun one, also it has the best name, i watch it often.
+
+## Character Discussions
+COMMENT | Score: 135 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+The brotherhood between Tyrese and Paul is very evident in their scenes as Roman and Brian, especially in 2F2F.
+
+## Timeline Discussions
+COMMENT | Score: 18 upvotes
+THREAD: https://www.reddit.com/r/movies/comments/13h5oym/what_fast_furious_movies_can_i_skipchange_order/
+2 and 3 are skippable, IMO. 4 and 5 are the most important for the main storyline.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/1foapa8/i_dont_care_what_anyone_says_tokyo_drift_is/
+
+## Fan Opinions
+COMMENT | Score: 62 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+Tokyo Drift is my favorite. I just love Japan and its car culture and Han is also my favorite character. So naturally this will be my favorite.
+
+COMMENT | Score: 40 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1foapa8/i_dont_care_what_anyone_says_tokyo_drift_is/
+OG, Fast 5 and Tokyo Drift are my personal top 3.
+
+## Character Discussions
+COMMENT | Score: 208 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/14z33wm/why_was_han_hanging_out_with_high_schoolers/
+Have you ever been to a car meet? You get the high school kids with their very first shitbox at the same place as grown men with their life long pride n joy. They shared an interest, and did meet at a car meet.
+
+## Timeline Discussions
+COMMENT | Score: 7 upvotes
+THREAD: https://www.reddit.com/r/movies/comments/196gjfl/whats_the_oddest_left_turn_a_franchise_has_made/
+Tokyo drift is very last in the chronological timeline. The Fast and the Furious 6 is before that and after Fast Five I believe.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/1foapa8/i_dont_care_what_anyone_says_tokyo_drift_is/
+
+## Fan Opinions
+COMMENT | Score: 12 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1foapa8/i_dont_care_what_anyone_says_tokyo_drift_is/
+Fast & furious (2009) is underrated too.
+
+COMMENT | Score: 130 upvotes
+THREAD: https://www.reddit.com/r/movies/comments/fg2rdh/20_years_on_pitch_black_is_a_brilliant_bmovie/
+2 Fast 2 Furious was still grounded. Tokyo Drift was a separate story. Fast & Furious (#4) was the soft reboot that brought the original cast back together.
+
+## Character Discussions
+COMMENT | Score: 7 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1foapa8/i_dont_care_what_anyone_says_tokyo_drift_is/
+The first had so much character and mystique that we are still developing new outlandish theories for every millisecond of the film to this day.
+
+## Timeline Discussions
+COMMENT | Score: 18 upvotes
+THREAD: https://www.reddit.com/r/movies/comments/13h5oym/what_fast_furious_movies_can_i_skipchange_order/
+4 and 5 are the most important if you're trying to follow the main storyline after the early films.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+
+## Fan Opinions
+COMMENT | Score: 29 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+Fast Five... Love a good heist movie. I always watch 5, 6, 7 in a row because there's a nice flow/common storyline about trying to get amnesty.
+
+COMMENT | Score: 110 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+Many people think Fast Five is the best of the series, myself included.
+
+## Character Discussions
+COMMENT | Score: 7 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1j8xu7w/just_rewatched_fast_five/
+The Hobbs character basically saved his acting career. Once he hit with Hobbs, he caught fire.
+
+COMMENT | Score: 1 upvote
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1j8xu7w/just_rewatched_fast_five/
+When people say "The Rock plays himself in every movie" I wish I could show them this movie because the Rock is actually playing a character.
+
+## Rankings
+COMMENT | Score: 11 upvotes
+THREAD: https://www.reddit.com/r/movies/comments/13h5oym/what_fast_furious_movies_can_i_skipchange_order/
+They peaked at the 5th movie, and the last 2 or 3 are worse than anything you have seen so far.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/1983vyt/this_was_the_most_unnecessary_death_ever_dude/
+
+## Fan Opinions
+COMMENT | Score: 113 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+This is pure cinema here, no other entry in the series comes close to this.
+
+## Character Discussions
+COMMENT | Score: 159 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1983vyt/this_was_the_most_unnecessary_death_ever_dude/
+I hated this... He turned good for less than half a movie and now dead...
+
+COMMENT | Score: 13 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13jzz61/i_do_not_understand_the_f9_hate/
+Bringing Han back diminishes the effect his death had on the team and for us as the audience. Especially since we legit saw him in the wreck get killed.
+
+## Timeline Discussions
+COMMENT | Score: 8 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13of7od/i_just_rewatched_tokyo_drift_during_my_ff_rewatch/
+In the retcon scene where Han dies. People say you can see "the hologram flicker" but you simply see Han in the car one minute and then he's not in it the next.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/14ivdys/its_a_void_that_no_one_can_ever_fill/
+
+## Fan Opinions
+COMMENT | Score: 29 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1klk1qx/which_fast_and_furious_movie_is_ur_fav_and_why_it/
+7! It's just the most magical and wholesome and heartbreaking. But I do believe 5 is the objectively best one.
+
+COMMENT | Score: 39 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/14ivdys/its_a_void_that_no_one_can_ever_fill/
+It should've ended on 7, haven't enjoyed a fast & furious movie as much since that one.
+
+## Character Discussions
+COMMENT | Score: 104 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/14ivdys/its_a_void_that_no_one_can_ever_fill/
+The franchise lost part of its soul when Paul Walker died. The series hasn't been the same since he passed.
+
+COMMENT | Score: 57 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13rx8nx/my_sister_didnt_cry_at_the_end_of_furious_7/
+Wait, she for real watched the entire movie from beginning to end and didn't cry? Wow.
+
+## Rankings
+COMMENT | Score: 8 upvotes
+THREAD: https://www.reddit.com/r/movies/comments/13h5oym/what_fast_furious_movies_can_i_skipchange_order/
+5-7 are good and where the series peaked.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/11n6wgz/what_was_wrong_with_the_fate_of_the_furious/
+
+## Fan Opinions
+COMMENT | Score: 23 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/11n6wgz/what_was_wrong_with_the_fate_of_the_furious/
+The biggest problem with Fate is that it is so eager to bring Shaw in as an ally that it glosses over his murder of Han.
+
+## Character Discussions
+COMMENT | Score: 3 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/11n6wgz/what_was_wrong_with_the_fate_of_the_furious/
+Dom going rogue for Elena is a hard sell for me personally — she was a fling he had when Letty was out the picture. That's not enough for me to buy him turning on his whole family.
+
+## Timeline Discussions
+COMMENT | Score: 5 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/11n6wgz/what_was_wrong_with_the_fate_of_the_furious/
+My takeaway from Fate and F9 is that things start to feel very "this is happening now, just because" instead of having more sound reasoning.
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/xkmwuu/f9_was_an_abomination/
+
+## Fan Opinions
+COMMENT | Score: 19 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/xkmwuu/f9_was_an_abomination/
+Def the worst fast movie. I've seen all hundreds of times but can't bring myself to rewatch this one.
+
+COMMENT | Score: 12 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/xkmwuu/f9_was_an_abomination/
+Yeah, F9 is easily my least favorite and a low point for the series as a whole in regards to quality storytelling.
+
+## Character Discussions
+COMMENT | Score: 1 upvote
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1cqa0bc/in_all_sincerity_did_you_actually_like_f9_going/
+I liked the going to space. What I hated was that bit when they were driving on the wooden bridge as it was falling, because the rest of the franchise is unrealistic, but that's just mental.
+
+## Rankings
+COMMENT | Score: 1 upvote
+THREAD: https://www.reddit.com/r/fastandfurious/comments/1abqeb7/hot_take_the_fast_and_furious_saga_reached_his/
+I liked 8, thought 9 was bad with going to space, 10 was a little better but bringing back Gisele was lame. they should of stopped at 8.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: Reddit
+SOURCE_URL: https://www.reddit.com/r/fastandfurious/comments/13vqjp2/my_only_criticism_of_jason_momoa_is_that_this_was/
+
+## Fan Opinions
+COMMENT | Score: 130 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13vqjp2/my_only_criticism_of_jason_momoa_is_that_this_was/
+If you want to combine two of arguably the best action movie characters in history, these would be my two suggestions to be honest.
+
+COMMENT | Score: 33 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13vqjp2/my_only_criticism_of_jason_momoa_is_that_this_was/
+It's about time we got a villain that's just as over the top as the franchise is, I didn't know we needed this until I saw him.
+
+## Character Discussions
+COMMENT | Score: 99 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13v7fdv/what_do_you_think_of_dante_reyes_do_you_like_him/
+He is the best FF villain & he's a top movie villain. He like a Bond villain on roids and cocaine. The best part of the movie.
+
+COMMENT | Score: 28 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13vqjp2/my_only_criticism_of_jason_momoa_is_that_this_was/
+SAME! He looked like he was having the most fun, which is refreshing, considering how seriously Vin Diesel takes himself.
+
+## Rankings
+COMMENT | Score: 130 upvotes
+THREAD: https://www.reddit.com/r/fastandfurious/comments/13vqjp2/my_only_criticism_of_jason_momoa_is_that_this_was/
+If you like the F&F series, then you'll probably still like Fast X. Unfortunately, F&F is everyone's favorite punching bag because it's the current trend to bash these movies.
+
+---

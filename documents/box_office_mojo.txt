@@ -1,0 +1,157 @@
+CORPUS: Box office data
+
+SOURCE_SITE: https://www.boxofficemojo.com/
+
+=== MOVIE: The Fast and the Furious ===
+YEAR: 2001
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt0232500/
+
+## Revenue
+Worldwide Gross: $207.5 million
+Domestic Gross: $144.7 million
+International Gross: $62.8 million
+Opening Weekend (Domestic): $40.1 million
+## Performance
+Budget: $38 million.
+
+---
+
+=== MOVIE: 2 Fast 2 Furious ===
+YEAR: 2003
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt0322259/
+
+## Revenue
+Worldwide Gross: $236.4 million
+Domestic Gross: $127.2 million
+International Gross: $109.2 million
+Opening Weekend (Domestic): $50.5 million
+## Performance
+Budget: $76 million.
+
+---
+
+=== MOVIE: The Fast and the Furious: Tokyo Drift ===
+YEAR: 2006
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt0463985/
+
+## Revenue
+Worldwide Gross: $159.0 million
+Domestic Gross: $62.5 million
+International Gross: $96.5 million
+Opening Weekend (Domestic): $24.0 million
+## Performance
+Budget: $85 million.
+
+---
+
+=== MOVIE: Fast & Furious ===
+YEAR: 2009
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt1013752/
+
+## Revenue
+Worldwide Gross: $360.4 million
+Domestic Gross: $155.1 million
+International Gross: $205.3 million
+Opening Weekend (Domestic): $71.0 million
+## Performance
+Budget: $85 million.
+
+---
+
+=== MOVIE: Fast Five ===
+YEAR: 2011
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt1596343/
+
+## Revenue
+Worldwide Gross: $626.1 million
+Domestic Gross: $209.8 million
+International Gross: $416.3 million
+Opening Weekend (Domestic): $86.2 million
+## Performance
+Budget: $125 million.
+Fast Five marked the franchise's first $600M+ worldwide gross and mainstream breakout.
+
+---
+
+=== MOVIE: Fast & Furious 6 ===
+YEAR: 2013
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt1905041/
+
+## Revenue
+Worldwide Gross: $788.7 million
+Domestic Gross: $238.7 million
+International Gross: $550.0 million
+Opening Weekend (Domestic): $97.4 million
+## Performance
+Budget: $160 million.
+
+---
+
+=== MOVIE: Furious 7 ===
+YEAR: 2015
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt2820852/
+
+## Revenue
+Worldwide Gross: $1515.3 million
+Domestic Gross: $353.0 million
+International Gross: $1162.3 million
+Opening Weekend (Domestic): $147.2 million
+## Performance
+Budget: $190 million.
+Highest in franchise
+Furious 7 is the highest-grossing Fast & Furious film worldwide at $1.515 billion.
+
+---
+
+=== MOVIE: The Fate of the Furious ===
+YEAR: 2017
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt4630562/
+
+## Revenue
+Worldwide Gross: $1236.0 million
+Domestic Gross: $226.0 million
+International Gross: $1010.0 million
+Opening Weekend (Domestic): $98.8 million
+## Performance
+Budget: $250 million.
+Second-highest
+
+---
+
+=== MOVIE: F9: The Fast Saga ===
+YEAR: 2021
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt5433138/
+
+## Revenue
+Worldwide Gross: $726.2 million
+Domestic Gross: $173.0 million
+International Gross: $553.2 million
+Opening Weekend (Domestic): $70.0 million
+## Performance
+Budget: $200 million.
+
+---
+
+=== MOVIE: Fast X ===
+YEAR: 2023
+SOURCE: Box Office Mojo
+SOURCE_URL: https://www.boxofficemojo.com/title/tt5433140/
+
+## Revenue
+Worldwide Gross: $714.6 million
+Domestic Gross: $146.0 million
+International Gross: $568.6 million
+Opening Weekend (Domestic): $67.0 million
+## Performance
+Budget: $379 million.
+
+---
