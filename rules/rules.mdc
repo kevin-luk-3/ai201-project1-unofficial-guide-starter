@@ -1,3 +1,54 @@
 ---
+description: AI201 Project 1 — The Unofficial Guide (Fast & Furious RAG pipeline)
 alwaysApply: true
 ---
+
+# The Unofficial Guide — Project Rules
+
+## What this project is
+
+RAG system for **unofficial Fast & Furious franchise knowledge**. Pipeline: ingest `documents/*.txt` → chunk → embed → ChromaDB → retrieve top-k → Groq generation with citations.
+
+**`planning.md` is the spec.** Read it before implementing any pipeline stage. If implementation diverges, update `planning.md` first, then code.
+
+## Corpus format (do not break)
+
+- One source per file in `documents/*.txt` (10 files, 10 mainline films each).
+- Structure: `=== MOVIE: <title> ===` blocks with `YEAR`, `SOURCE`, `SOURCE_URL`, then `## <section>` subsections.
+- Do **not** edit corpus files unless the user explicitly asks.
+- Strip file-level `CORPUS:` headers on ingest; chunk from first `=== MOVIE:`.
+
+## Chunking (match `chunk_documents.py` + planning.md)
+
+1. **Primary:** one chunk per `##` section, with metadata header prefixed to body.
+2. **Sub-split:** only when section body exceeds `MAX_BODY_CHARS` (400); split on `\n\n` paragraph boundaries with 1-paragraph overlap within the same section.
+3. Every chunk must carry metadata: `movie`, `year`, `source`, `source_url`, `source_file`, `section`, `sub_chunk`, `sub_chunk_total`, `char_count`.
+4. Target ~380 total chunks; full chunks should stay under 500 chars including metadata.
+
+## Stack (use these unless user says otherwise)
+
+| Stage | Tool |
+|-------|------|
+| Chunking | Python stdlib (`pathlib`, `re`, `dataclasses`) |
+| Embedding | `sentence-transformers` / `all-MiniLM-L6-v2` |
+| Vector store | ChromaDB |
+| Retrieval | top-k = **5** |
+| Generation | Groq API (`llama-3.3-70b`), key in `.env` |
+
+## Grounding requirements
+
+- Answers must use **only** retrieved chunks — refuse out-of-scope questions.
+- Surface source attribution (filenames like `imdb.txt`, `wikipedia.txt`).
+- Test with the 5 eval questions in `planning.md` before marking a milestone done.
+
+## Code conventions
+
+- Python 3.10+ style (`from __future__ import annotations`, type hints).
+- Minimal scope: only change what the current milestone needs.
+- No new dependencies without a clear reason; check `requirements.txt` first.
+- Never commit `.env` or API keys; use `.env.example` as the template.
+
+## Submission docs
+
+- Fill `README.md` sections **after** building and testing each part — no placeholder filler text.
+- Record honest eval results and at least one failure-case analysis tied to a pipeline stage.

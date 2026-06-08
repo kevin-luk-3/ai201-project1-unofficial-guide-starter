@@ -266,4 +266,5 @@ def print_stats(chunks: list[Chunk]) -> None:
 if __name__ == "__main__":
     chunks = chunk_all_documents()
     print_stats(chunks)
-    print_sample(chunks, n=100)
+    print_sample([c for c in chunks if c.source_file == "wikipedia.txt"], n=5)
+    print_sample(chunks, n=5)
