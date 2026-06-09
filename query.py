@@ -38,15 +38,13 @@ def format_context(chunks: list[RetrievedChunk]) -> str:
 
 
 def format_sources(chunks: list[RetrievedChunk]) -> list[str]:
-    seen: set[str] = set()
-    sources: list[str] = []
+    lines: list[str] = []
     for chunk in chunks:
         meta = chunk.metadata
-        line = f"{meta['source_file']} — {meta['movie']} / {meta['section']}"
-        if line not in seen:
-            seen.add(line)
-            sources.append(line)
-    return sorted(sources)
+        lines.append(
+            f"distance {chunk.distance:.4f} — {meta['source_file']} — {meta['movie']} / {meta['section']}"
+        )
+    return lines
 
 
 def ask(question: str) -> dict[str, str | list[str]]:

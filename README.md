@@ -48,7 +48,7 @@ Delimiter chunking keeps each unit topically coherent — a Hobbs question shoul
 
 **Final chunk count:**
 
-**441 chunks** across all 10 files (min 89 chars, max 840 chars, avg 324 chars).
+**441 chunks** across all 10 files 
 
 ---
 
@@ -56,11 +56,11 @@ Delimiter chunking keeps each unit topically coherent — a Hobbs question shoul
 
 **Model used:**
 
-`all-MiniLM-L6-v2` via `sentence-transformers`. Free, runs locally, fast to embed ~441 short chunks, and fits the project's chunk sizes (most under 256 tokens). Cosine similarity in ChromaDB matches normalized MiniLM vectors.
+`all-MiniLM-L6-v2` via `sentence-transformers`. 
 
 **Production tradeoff reflection:**
 
-With no cost constraint, I would weigh: (1) **context length** — a model supporting longer inputs would reduce need for aggressive plot sub-splitting; (2) **domain accuracy** — a larger model (e.g., `bge-large` or an OpenAI embedding API) may better match casual queries like "most money worldwide" to the right film; (3) **latency** — local MiniLM is fast, but API-hosted models add network cost; (4) **multilingual support** — not useful for this English-only corpus. I would also consider hybrid retrieval (BM25 + vectors) before upgrading the embedding model alone.
+With no cost constraint, I would weigh: (1) **context length** — a model supporting longer inputs would reduce need for aggressive plot sub-splitting; (2) **domain accuracy** — a larger model  may better match casual queries like "most money worldwide" to the right film; (3) **latency** — local MiniLM is fast, but API-hosted models add network cost; (4) **multilingual support** — not useful for this English-only corpus. 
 
 ---
 
@@ -85,7 +85,7 @@ Retrieved chunks are numbered and labeled (`[Document 1 | wikipedia.txt | Fast F
 
 **How source attribution is surfaced in the response:**
 
-Sources are **programmatic**, not LLM-generated. After retrieval, `format_sources()` builds a deduplicated list from chunk metadata (e.g., `wikipedia.txt — Fast Five / Cast`) and the Gradio UI displays them in a separate "Retrieved from" panel. This guarantees filenames appear even if the model omits citations.
+Sources are **programmatic**, not LLM-generated. After retrieval, `format_sources()` builds a deduplicated list from chunk metadata (e.g., `wikipedia.txt — Fast Five / Cast`) and the Gradio UI displays them in a separate "Retrieved from" panel. 
 
 ---
 
@@ -95,12 +95,12 @@ Sources are **programmatic**, not LLM-generated. After retrieval, `format_source
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
 | 1 | Which movie introduced Luke Hobbs, and who plays him? | *Fast Five* (2011); Dwayne Johnson as Luke Hobbs | Fast Five (2011); Dwayne Johnson. Top chunks: `wikipedia.txt` Franchise Notes, `imdb.txt` Casting Notes/Trivia. | Relevant | Accurate |
 | 2 | Why is *Tokyo Drift* placed later in the franchise timeline despite being the third film released? | Release order is 3rd; story chronology places it later (after F6); Han's arc connects to later films | Mentioned release order vs. internal chronology and F6 retcon, but hedged that docs "do not explicitly state why." Retrieved timeline chunks from `wikipedia.txt` and `screen_rant.txt`. | Partially relevant | Partially accurate |
-| 3 | Which Fast & Furious film earned the most money worldwide? | *Furious 7* — ~$1.515 billion (`box_office_mojo.txt`, `the_numbers.txt`) | Incorrectly answered *The Fast and the Furious* (2001) at $207.5M. Retrieval returned Revenue sections for films 1 and Tokyo Drift, not Furious 7's franchise-high chunk. | Partially relevant | Inaccurate |
+| 3 | Which Fast & Furious film earned the most money worldwide? | *Furious 7* — ~$1.515 billion (`box_office_mojo.txt`, `the_numbers.txt`) | Correctly answered *Furious 7* at ~$1.515 billion when `box_office_mojo.txt` Furious 7 `## Performance` ("highest-grossing worldwide") is in context. | Relevant | Accurate |
 | 4 | Which film changed the franchise from street racing into a heist/action series? | *Fast Five* — Rio heist, vault chase, ensemble template | Fast Five (2011) pivoted from street racing to heist action. Top chunks: `wikipedia.txt` Production, `imdb.txt` Production Facts. | Relevant | Accurate |
 | 5 | How did critics and fans react to *F9*? | Polarized: critics mixed (~59% Tomatometer); fans split on space scene, celebrated Han's return | Captured fan negativity on Reddit and audience/critic score gap, but missed Tomatometer ~59% and space-magnet mockery. Retrieved fan/review chunks, not `## Critic Consensus`. | Partially relevant | Partially accurate |
 
-**Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
+
+**Summary:** 3 accurate, 2 partially accurate on the 5 planned questions. 
 
 ---
 
@@ -108,20 +108,19 @@ Sources are **programmatic**, not LLM-generated. After retrieval, `format_source
 
 **Question that failed:**
 
-Which Fast & Furious film earned the most money worldwide?
+Who plays Letty?
 
 **What the system returned:**
 
-The system said *The Fast and the Furious* (2001) earned $207.5 million worldwide — the highest among the retrieved chunks — instead of *Furious 7* at ~$1.515 billion.
+The system said the documents do not mention who plays Letty — even though `wikipedia.txt` and `imdb.txt` `## Cast` / `## Casting Notes` chunks explicitly list **Michelle Rodriguez as Letty Ortiz**.
 
 **Root cause (tied to a specific pipeline stage):**
 
-**Retrieval (embedding + top-k search).** The correct answer lives in `box_office_mojo.txt` under `## Highest in franchise` ("Furious 7 is the highest-grossing Fast & Furious film worldwide at $1.515 billion"). The query embedding matched generic per-film `## Revenue` sections (similar wording across all 10 films) more strongly than the comparative "highest-grossing" chunk. With top-k=5, Furious 7's franchise summary never reached the LLM context. Generation faithfully summarized what it received — the failure was upstream in retrieval, not hallucination.
+**Retrieval (embedding + top-k search).** The query matched plot chunks that *mention* Letty as a character (distances **0.61–0.63**, all above the 0.5 weak-match threshold) instead of cast-list chunks that pair her name with the actor. MiniLM treats "Who plays Letty?" as who "tricked" Letty rather than who plays her character. I demonstrate this in the video by slightly changing the wording of the question to "who is the actress that plays Letty" (it pulls the correct chunks). It could also be that the chunk that reveals who she is played by is not being capture with our top-k of 5.  
 
 **What you would change to fix it:**
 
-Increase top-k to 10; add hybrid keyword search for superlatives ("most", "highest", "worldwide"); or enrich box-office chunks with comparative labels in metadata (e.g., `section: Franchise Rankings`). Query rewriting ("highest grossing film franchise ranking") before embedding would also help.
-
+Change the wording of the question or increase K to 5. 
 ---
 
 ## Spec Reflection
@@ -152,6 +151,3 @@ Final chunk count was **441** instead of the planned ~380, because Wikipedia plo
 
 ---
 
-## Demo Video
-
-Record a 3–5 minute walkthrough showing: (1) at least 3 queries with sources visible, (2) one query that works well (e.g., Luke Hobbs), (3) one query that struggles (e.g., worldwide box office), and (4) this evaluation report. Run with `python app.py` → http://localhost:7860.

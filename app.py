@@ -44,7 +44,11 @@ with gr.Blocks(title="The Unofficial Guide") as demo:
     inp = gr.Textbox(label="Your question", placeholder="Which movie introduced Luke Hobbs?")
     btn = gr.Button("Ask")
     answer = gr.Textbox(label="Answer", lines=8)
-    sources = gr.Textbox(label="Retrieved from", lines=4)
+    sources = gr.Textbox(
+        label="Retrieved from",
+        lines=6,
+        info="Cosine distance per chunk. Below 0.5 = good match; 0.5+ = weak.",
+    )
 
     btn.click(handle_query, inputs=inp, outputs=[answer, sources])
     inp.submit(handle_query, inputs=inp, outputs=[answer, sources])
