@@ -83,13 +83,15 @@ I'd ingest more sources as more sources might corroborate with more accuracy but
      is right or wrong. "What are good dining halls?" is too vague.
      "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | Which movie introduced Luke Hobbs, and who plays him? | *Fast Five* (2011); Dwayne Johnson as DSS agent Luke Hobbs (`imdb.txt`, `wikipedia.txt`, `reddit.txt`) |
-| 2 | Why is *Tokyo Drift* placed later in the franchise timeline despite being the third film released? | Release order is 3rd, but story chronology places it later (after *F6* events); Han's arc connects to later films (`wikipedia.txt`, `reddit.txt`, `screen_rant.txt`) |
-| 3 | Which Fast & Furious film earned the most money worldwide? | *Furious 7* — approximately $1.515 billion worldwide (`box_office_mojo.txt`, `the_numbers.txt`) |
-| 4 | Which film changed the franchise from street racing into a heist/action series? | *Fast Five* — Rio heist, vault chase, ensemble crew template (`wikipedia.txt`, `screen_rant.txt`, `roger_ebert.txt`) |
-| 5 | How did critics and fans react to *F9*? | Polarized: critics mixed (Tomatometer ~59%); fans split — space/magnet scene mocked, Han's return celebrated (`rotten_tomatoes.txt`, `letterboxd.txt`, `reddit.txt`) |
+| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
+|---|----------|-----------------|------------------------------|-------------------|-------------------|
+| 1 | Which movie introduced Luke Hobbs, and who plays him? | *Fast Five* (2011); Dwayne Johnson as DSS agent Luke Hobbs (`imdb.txt`, `wikipedia.txt`, `reddit.txt`) | Fast Five (2011); Dwayne Johnson. Top chunks: `wikipedia.txt` Franchise Notes, `imdb.txt` Casting Notes/Trivia. | Relevant | Accurate |
+| 2 | Why is *Tokyo Drift* placed later in the franchise timeline despite being the third film released? | Release order is 3rd, but story chronology places it later (after *F6* events); Han's arc connects to later films (`wikipedia.txt`, `reddit.txt`, `screen_rant.txt`) | Mentioned release order vs. internal chronology and F6 retcon, but hedged that docs "do not explicitly state why." Retrieved timeline chunks from `wikipedia.txt` and `screen_rant.txt`. | Partially relevant | Partially accurate |
+| 3 | Which Fast & Furious film earned the most money worldwide? | *Furious 7* — approximately $1.515 billion worldwide (`box_office_mojo.txt`, `the_numbers.txt`) | Incorrectly answered *The Fast and the Furious* (2001) at $207.5M. Retrieval returned per-film `## Revenue` chunks for FF1 and Tokyo Drift; Furious 7 `## Performance` ("highest-grossing worldwide") ranked outside top-k=5. | Partially relevant | Inaccurate |
+| 4 | Which film changed the franchise from street racing into a heist/action series? | *Fast Five* — Rio heist, vault chase, ensemble crew template (`wikipedia.txt`, `screen_rant.txt`, `roger_ebert.txt`) | Fast Five (2011) pivoted from street racing to heist action. Top chunks: `wikipedia.txt` Production, `imdb.txt` Production Facts. | Relevant | Accurate |
+| 5 | How did critics and fans react to *F9*? | Polarized: critics mixed (Tomatometer ~59%); fans split — space/magnet scene mocked, Han's return celebrated (`rotten_tomatoes.txt`, `letterboxd.txt`, `reddit.txt`) | Captured fan negativity on Reddit and audience/critic score gap, but missed Tomatometer ~59% and space-magnet mockery. Retrieved fan/review chunks, not `## Critic Consensus`. | Partially relevant | Partially accurate |
+
+**Summary:** 2 accurate, 2 partially accurate, 1 inaccurate on the 5 planned questions (matches README Evaluation Report).
 
 ---
 
